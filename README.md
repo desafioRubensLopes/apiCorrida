@@ -13,6 +13,11 @@ Acionar o a url: http://localhost:8090/race-api/v1/swagger-ui.html
 
 as funcionalidade e massa de testes pode ser acionados por esse portal.
 
+é possivel conferir a inclusão usando os seguintes comandos no MONGODB.
+> use db
+> db.tcorrida.find()
+> db.tresultado.find()
+
 
 
 Qualquer dúvida entrar em contato.
